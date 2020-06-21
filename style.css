@@ -10,12 +10,20 @@ ul{
 }
 
 
-li{
+.li1{
 	width: 40px;
 	height: 20px;
 	float: right;
 	list-style-type: none;
 	padding: 1px;
+}
+
+
+.li2{
+	font-size: 12px;
+	list-style-type: none;
+	padding: 0.1px;
+	margin-right: 10px;
 }
 
 li:nth-child(2){
